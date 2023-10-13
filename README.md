@@ -1,11 +1,11 @@
 ![Gaming time 2](https://user-images.githubusercontent.com/96650638/226161194-e6563c7c-08f0-427b-b20e-4aa38f368af9.png)
 <h1 align="center">Hello World! I am Aryan Yadav</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Java Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on [Data Analysis](https://github.com/aryan9700/MatPlotLib)
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on [Java](https://github.com/aryan9700/Java-development)
 
